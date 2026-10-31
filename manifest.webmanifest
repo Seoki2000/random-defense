@@ -1,0 +1,15 @@
+{
+  "name": "랜덤 디펜스 (학습용 프로토)",
+  "short_name": "랜덤 디펜스",
+  "description": "영웅을 소환·합성해 20웨이브를 버티는 학습용 랜덤 디펜스 프로토타입",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#1d2b1f",
+  "theme_color": "#1d2b1f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
